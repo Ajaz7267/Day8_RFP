@@ -1,7 +1,7 @@
 package LineComparision;
 import java.lang.Double;
 
-public class LineComparision {
+public class LineComparisionUC3 {
     public static void main(String[] args) {
         System.out.println("Welcome to Line Comparison Computation Program");
         int x1= 20;
